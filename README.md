@@ -1,6 +1,6 @@
 # Hi, I'm Omi Gupta 👋
 
-🚀 **Freelance Web Developer** | 200+ Websites Built  
+🚀 **Freelance Web Developer** | 40+ Websites Built  
 🎓 B.Tech CS (AI) @ Techno India University (2024–2028)  
 💡 Passionate about UI/UX, Clean Design & Web Performance  
 📍 Kolkata, India
