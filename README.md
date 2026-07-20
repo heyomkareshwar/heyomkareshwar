@@ -22,7 +22,7 @@
 
 ## 🔥 What I Do
 
-- 🌐 Built **200+ responsive, modern websites** for real businesses across India
+- 🌐 Built **40+ responsive, modern websites** for real businesses across India
 - 🎨 Designed complete **UI/UX for SocioGram** — a social media platform
 - 🤝 Working on **CollabNow** — a creator-brand collaboration platform
 - ⚡ Specialized in **website speed optimization** & mobile-first design
