@@ -50,6 +50,8 @@ I've worked on 40+ websites across different business categories, focusing on:
 - Website performance optimization
 - UI/UX improvements
 
+---
+
 ## 📊 GitHub Stats
 
 ![Omi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=heyomkareshwar&show_icons=true&theme=tokyonight&hide_border=true)
