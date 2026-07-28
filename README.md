@@ -22,11 +22,11 @@
 
 ## 🔥 What I Do
 
-- 🌐 Built **40+ responsive, modern websites** for real businesses across India
-- 🎨 Designed complete **UI/UX for SocioGram** — a social media platform
-- 🤝 Working on **CollabNow** — a creator-brand collaboration platform
-- ⚡ Specialized in **website speed optimization** & mobile-first design
-- 🧠 Founder of **Printopia** — a creative poster-selling brand
+- 🌐 Build responsive and modern websites for businesses
+- 🎨 Design clean and intuitive user interfaces
+- ⚡ Optimize websites for speed and mobile devices
+- 🔍 Improve website structure for SEO and discoverability
+- 💡 Turn ideas into functional digital products
 
 ---
 
@@ -40,6 +40,15 @@
 | 🖨️ Printopia | Creative poster-selling brand & store | Design, Marketing |
 
 ---
+💼 Freelance Work
+
+I've worked on 40+ websites across different business categories, focusing on:
+- Responsive & mobile-first development
+- Landing pages and business websites
+- Lead generation
+- SEO-friendly structure
+- Website performance optimization
+- UI/UX improvements
 
 ## 📊 GitHub Stats
 
